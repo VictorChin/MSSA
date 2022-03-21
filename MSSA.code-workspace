@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "Week1"
+		},
+		{
+			"name": "MSSA",
+			"path": "."
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
