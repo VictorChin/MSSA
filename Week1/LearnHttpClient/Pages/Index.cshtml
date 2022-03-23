@@ -1,0 +1,28 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@foreach (var header in Model._headers)
+{
+    <p>
+        @header.Key:
+        <ul>
+        @foreach (var item in header.Value)
+        {
+            <li>@item</li>
+        }
+        </ul>
+    </p>
+}
+<div class="container">
+    <code>
+    @foreach (var item in Model.GitHubBranches)
+    {
+        <li>
+        @item.Name <a href=@item.Commit.Url>@item.Commit.SHA</a>
+        </li>
+    }
+    </code>
+</div>
