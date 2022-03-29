@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\MSSA\\Week1\\TodoList\\TodoList.csproj",
+      "projectUniqueName": "C:\\VictorMSSA\\MSSA\\Week1\\TodoList\\TodoList.csproj",
       "projectName": "TodoList",
-      "projectPath": "C:\\Repos\\MSSA\\Week1\\TodoList\\TodoList.csproj",
+      "projectPath": "C:\\VictorMSSA\\MSSA\\Week1\\TodoList\\TodoList.csproj",
       "packagesPath": "C:\\Users\\ypchi\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\MSSA\\Week1\\TodoList\\obj\\",
+      "outputPath": "C:\\VictorMSSA\\MSSA\\Week1\\TodoList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,15 @@
+C:\VictorMSSA\MSSA\Week1\HttpClientDemo\bin\Debug\net6.0\HttpClientDemo.exe
+C:\VictorMSSA\MSSA\Week1\HttpClientDemo\bin\Debug\net6.0\HttpClientDemo.deps.json
+C:\VictorMSSA\MSSA\Week1\HttpClientDemo\bin\Debug\net6.0\HttpClientDemo.runtimeconfig.json
+C:\VictorMSSA\MSSA\Week1\HttpClientDemo\bin\Debug\net6.0\HttpClientDemo.dll
+C:\VictorMSSA\MSSA\Week1\HttpClientDemo\bin\Debug\net6.0\HttpClientDemo.pdb
+C:\VictorMSSA\MSSA\Week1\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.csproj.AssemblyReference.cache
+C:\VictorMSSA\MSSA\Week1\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\VictorMSSA\MSSA\Week1\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.AssemblyInfoInputs.cache
+C:\VictorMSSA\MSSA\Week1\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.AssemblyInfo.cs
+C:\VictorMSSA\MSSA\Week1\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.csproj.CoreCompileInputs.cache
+C:\VictorMSSA\MSSA\Week1\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.dll
+C:\VictorMSSA\MSSA\Week1\HttpClientDemo\obj\Debug\net6.0\refint\HttpClientDemo.dll
+C:\VictorMSSA\MSSA\Week1\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.pdb
+C:\VictorMSSA\MSSA\Week1\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.genruntimeconfig.cache
+C:\VictorMSSA\MSSA\Week1\HttpClientDemo\obj\Debug\net6.0\ref\HttpClientDemo.dll

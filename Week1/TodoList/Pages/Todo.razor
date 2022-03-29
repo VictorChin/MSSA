@@ -2,8 +2,36 @@
 
 <PageTitle>Todo</PageTitle>
 
-<h1>Todo</h1>
+<h1>Todo (@todos.Count(todo => !todo.IsDone))</h1>
+
+
+<ul>
+    @foreach (var todo in todos)
+    {
+       <li> 
+        <input type="checkbox" @bind="todo.IsDone" />
+        <p>@todo.Title</p>
+        <p>@todo.Description</p>
+        <p>Due On: @todo.DueDate</p>
+        </li>
+    }
+</ul>
+<EditForm Model="@newTodoItem">
+<InputText placeholder="Something todo" @bind-Value="newTodoItem.Title"/>
+<InputTextArea @bind-Value=newTodoItem.Description></InputTextArea>
+<InputDate @bind-Value=newTodoItem.DueDate ></InputDate>
+<button @onclick="AddTodo">Add todo</button>
+</EditForm>
 
 @code {
-
+    private List<TodoItem> todos = new();
+    private TodoItem newTodoItem = new();
+        private void AddTodo()
+    {
+        if (!string.IsNullOrWhiteSpace(newTodoItem.Title))
+        {
+            todos.Add(newTodoItem);
+            newTodoItem.Title = string.Empty;
+        }
+    }
 }
