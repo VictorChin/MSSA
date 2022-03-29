@@ -14,4 +14,16 @@
   {
      Console.WriteLine("\nException Caught!");	
      Console.WriteLine("Message :{0} ",e.Message);
+
+     System.Console.WriteLine(new Demo(5){y=10});
+  }
+
+
+  class Demo{
+     public int x;
+     public int y;
+     public Demo(int _input)
+     {
+         x=_input;
+     }
   }
