@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Shared
+build_property.ProjectDir = C:\azure-cosmos-dotnet-v3\Microsoft.Azure.Cosmos.Samples\Usage\Shared\

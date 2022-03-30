@@ -1,0 +1,84 @@
+3/29/2022 10:53:51 AM	This log contains information about the import schema operation into project 'AwDatabase' on computer 'DESKTOP-5UPO3SM' by user 'ypchi'.
+3/29/2022 10:53:51 AM	Import of database schema has started.
+3/29/2022 10:53:53 AM	Gathering logins
+3/29/2022 10:56:48 AM	Gathering database credentials
+3/29/2022 10:56:48 AM	Gathering database options
+3/29/2022 10:56:48 AM	Gathering generic database scoped configuration option
+3/29/2022 10:56:48 AM	Gathering users
+3/29/2022 10:56:48 AM	Gathering roles
+3/29/2022 10:56:48 AM	Gathering application roles
+3/29/2022 10:56:48 AM	Gathering role memberships
+3/29/2022 10:56:48 AM	Gathering filegroups
+3/29/2022 10:56:48 AM	Gathering full-text catalogs
+3/29/2022 10:56:48 AM	Gathering assemblies
+3/29/2022 10:56:48 AM	Gathering certificates
+3/29/2022 10:56:48 AM	Gathering symmetric keys
+3/29/2022 10:56:48 AM	Gathering encrypted symmetric keys
+3/29/2022 10:56:48 AM	Gathering schemas
+3/29/2022 10:56:48 AM	Gathering XML schema collections
+3/29/2022 10:56:48 AM	Gathering user-defined data types
+3/29/2022 10:56:48 AM	Gathering user-defined types
+3/29/2022 10:56:48 AM	Gathering table types
+3/29/2022 10:56:48 AM	Gathering unique keys for table types
+3/29/2022 10:56:48 AM	Gathering primary keys for table types
+3/29/2022 10:56:48 AM	Gathering indexes for table types
+3/29/2022 10:56:48 AM	Gathering check constraints for table types
+3/29/2022 10:56:48 AM	Gathering default constraints for table types
+3/29/2022 10:56:48 AM	Gathering partition functions
+3/29/2022 10:56:48 AM	Gathering partition schemes
+3/29/2022 10:56:48 AM	Gathering functions
+3/29/2022 10:56:48 AM	Gathering encrypted functions
+3/29/2022 10:56:49 AM	Gathering aggregates
+3/29/2022 10:56:49 AM	Gathering procedures
+3/29/2022 10:56:49 AM	Gathering encrypted procedures
+3/29/2022 10:56:50 AM	Gathering tables
+3/29/2022 10:56:50 AM	Gathering primary keys
+3/29/2022 10:56:50 AM	Gathering unique constraints
+3/29/2022 10:56:50 AM	Gathering foreign keys
+3/29/2022 10:56:50 AM	Gathering default constraints
+3/29/2022 10:56:51 AM	Gathering check constraints
+3/29/2022 10:56:51 AM	Gathering views
+3/29/2022 10:56:51 AM	Gathering encrypted views
+3/29/2022 10:56:51 AM	Gathering indexes
+3/29/2022 10:56:51 AM	Gathering statistics
+3/29/2022 10:56:51 AM	Gathering full-text index stoplists
+3/29/2022 10:56:51 AM	Gathering search property lists
+3/29/2022 10:56:51 AM	Gathering search properties
+3/29/2022 10:56:51 AM	Gathering full-text indexes
+3/29/2022 10:56:51 AM	Gathering column store indexes
+3/29/2022 10:56:51 AM	Gathering spatial indexes
+3/29/2022 10:56:51 AM	Gathering XML indexes
+3/29/2022 10:56:51 AM	Gathering Selective XML indexes
+3/29/2022 10:56:52 AM	Gathering encrypted triggers
+3/29/2022 10:56:52 AM	Gathering triggers
+3/29/2022 10:56:52 AM	Gathering encrypted and clr ddl triggers
+3/29/2022 10:56:52 AM	Gathering ddl triggers
+3/29/2022 10:56:52 AM	Creating edge constraints
+3/29/2022 10:56:52 AM	Gathering synonyms
+3/29/2022 10:56:52 AM	Gathering defaults
+3/29/2022 10:56:52 AM	Gathering data constraint uddt bindings
+3/29/2022 10:56:52 AM	Gathering rules
+3/29/2022 10:56:52 AM	Gathering data constraint uddt bindings
+3/29/2022 10:56:52 AM	Gathering message types
+3/29/2022 10:56:52 AM	Gathering queues
+3/29/2022 10:56:52 AM	Gathering contracts
+3/29/2022 10:56:52 AM	Gathering services
+3/29/2022 10:56:52 AM	Gathering event notifications
+3/29/2022 10:56:52 AM	Gathering remote service bindings
+3/29/2022 10:56:52 AM	Gathering broker priorities
+3/29/2022 10:56:52 AM	Gathering signatures
+3/29/2022 10:56:52 AM	Gathering data compression options
+3/29/2022 10:56:52 AM	Gathering sequence types
+3/29/2022 10:56:52 AM	Gathering security policies
+3/29/2022 10:56:52 AM	Gather column encryption keys
+3/29/2022 10:56:52 AM	Gathering column master keys
+3/29/2022 10:56:52 AM	Gathering external data sources
+3/29/2022 10:56:52 AM	Gathering external tables
+3/29/2022 10:56:52 AM	Gathering extended properties
+3/29/2022 10:56:53 AM	Gathering assemblies
+3/29/2022 10:56:53 AM	Gathering logins
+3/29/2022 10:56:54 AM	Scanning project for duplicate elements
+3/29/2022 10:56:54 AM	Finished duplicate element processing
+3/29/2022 10:56:55 AM	Finished importing database.
+3/29/2022 10:56:55 AM	A summary of the import was saved to the following location: C:\Users\ypchi\source\repos\AwDatabase\AwDatabase\Import Schema Logs\AwDatabase_20220329025351.log
+3/29/2022 10:56:55 AM	Click Finish to continue...
