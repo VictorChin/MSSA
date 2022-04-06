@@ -1,0 +1,10 @@
+C:\Users\ypchi\source\repos\AwDatabase\AwDatabase\bin\Debug\AwDatabase.dacpac
+C:\Users\ypchi\source\repos\AwDatabase\AwDatabase\bin\Debug\AwDatabase.dll
+C:\Users\ypchi\source\repos\AwDatabase\AwDatabase\bin\Debug\AwDatabase.pdb
+C:\Users\ypchi\source\repos\AwDatabase\AwDatabase\obj\Debug\AwDatabase.sqlproj.AssemblyReference.cache
+C:\Users\ypchi\source\repos\AwDatabase\AwDatabase\obj\Debug\AwDatabase.dll
+C:\Users\ypchi\source\repos\AwDatabase\AwDatabase\obj\Debug\AwDatabase.pdb
+C:\Users\ypchi\source\repos\AwDatabase\AwDatabase\obj\Debug\Model.xml
+C:\Users\ypchi\source\repos\AwDatabase\AwDatabase\obj\Debug\refactor.xml
+C:\Users\ypchi\source\repos\AwDatabase\AwDatabase\obj\Debug\postdeploy.sql
+C:\Users\ypchi\source\repos\AwDatabase\AwDatabase\obj\Debug\predeploy.sql

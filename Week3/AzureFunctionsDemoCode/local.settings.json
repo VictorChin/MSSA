@@ -1,0 +1,10 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "[replace],
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "endpoint": "[replace]",
+    "subscriptionKey": "[replace]",
+    "containerPath": "https://[replace]/[replace]"
+  }
+}
