@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7vx1OeOwmXZSF8q+wpYXbouY77OwjazBVgYvU8WfZQ0QRifRLbybxSmW5yKzgYkvn7S59jUOo4gRoVDcxPHsMA==",
+  "success": true,
+  "projectFilePath": "C:\\VictorMSSA\\MSSA\\Week2\\DataAccess\\DocumentDB-Quickstart-DotNet-Graph\\GremlinNetSample\\GremlinNetSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ypchi\\.nuget\\packages\\gremlin.net\\3.4.0-rc2\\gremlin.net.3.4.0-rc2.nupkg.sha512",
+    "C:\\Users\\ypchi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\ypchi\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

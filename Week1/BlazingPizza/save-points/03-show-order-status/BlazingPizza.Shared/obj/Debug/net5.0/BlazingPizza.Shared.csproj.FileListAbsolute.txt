@@ -1,0 +1,15 @@
+C:\blazorWorkshop\blazor-workshop\save-points\03-show-order-status\BlazingPizza.Shared\bin\Debug\net5.0\BlazingPizza.Shared.deps.json
+C:\blazorWorkshop\blazor-workshop\save-points\03-show-order-status\BlazingPizza.Shared\bin\Debug\net5.0\BlazingPizza.Shared.dll
+C:\blazorWorkshop\blazor-workshop\save-points\03-show-order-status\BlazingPizza.Shared\bin\Debug\net5.0\BlazingPizza.Shared.pdb
+C:\blazorWorkshop\blazor-workshop\save-points\03-show-order-status\BlazingPizza.Shared\bin\Debug\net5.0\BlazingPizza.ComponentsLibrary.dll
+C:\blazorWorkshop\blazor-workshop\save-points\03-show-order-status\BlazingPizza.Shared\bin\Debug\net5.0\BlazingPizza.ComponentsLibrary.pdb
+C:\blazorWorkshop\blazor-workshop\save-points\03-show-order-status\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.csproj.AssemblyReference.cache
+C:\blazorWorkshop\blazor-workshop\save-points\03-show-order-status\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\blazorWorkshop\blazor-workshop\save-points\03-show-order-status\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.AssemblyInfoInputs.cache
+C:\blazorWorkshop\blazor-workshop\save-points\03-show-order-status\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.AssemblyInfo.cs
+C:\blazorWorkshop\blazor-workshop\save-points\03-show-order-status\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+C:\blazorWorkshop\blazor-workshop\save-points\03-show-order-status\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.csproj.CopyComplete
+C:\blazorWorkshop\blazor-workshop\save-points\03-show-order-status\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.dll
+C:\blazorWorkshop\blazor-workshop\save-points\03-show-order-status\BlazingPizza.Shared\obj\Debug\net5.0\refint\BlazingPizza.Shared.dll
+C:\blazorWorkshop\blazor-workshop\save-points\03-show-order-status\BlazingPizza.Shared\obj\Debug\net5.0\BlazingPizza.Shared.pdb
+C:\blazorWorkshop\blazor-workshop\save-points\03-show-order-status\BlazingPizza.Shared\obj\Debug\net5.0\ref\BlazingPizza.Shared.dll

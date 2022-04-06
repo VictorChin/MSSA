@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GremlinNetSample
+build_property.ProjectDir = C:\VictorMSSA\MSSA\Week2\DataAccess\DocumentDB-Quickstart-DotNet-Graph\GremlinNetSample\

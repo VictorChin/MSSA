@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "BlazingPizza.Client": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:8127;http://localhost:8128"
+    }
+  }
+}

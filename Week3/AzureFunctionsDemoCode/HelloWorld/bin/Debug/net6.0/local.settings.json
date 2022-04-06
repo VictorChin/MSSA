@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=mssa0404;AccountKey=+k+Vlu6yBh9Dw65nNCwwDAHZ8gJfBW9Dzh0V3jfKSY4wWAg4hp1mNdHLzPdcB0u6U6wwrOT5CKoz+AStDxlOeQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "endpoint": "https://mssacv.cognitiveservices.azure.com/",
+    "subscriptionKey": "ddddfd57fb1e439b8e0c743bf27830c4",
+    "containerPath": "https://mssa0404.blob.core.windows.net/images-vc",
+    "thumbnailPath": "https://mssa0404.blob.core.windows.net/images-tn-vc"
+  }
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\blazorWorkshop\blazor-workshop\save-points\05-checkout-with-validation\BlazingPizza.Client\bin\Release\net5.0\browser-wasm\publish\</_PublishTargetUrl>
+    <History>True|2022-03-28T15:54:57.4130313Z;</History>
+  </PropertyGroup>
+</Project>

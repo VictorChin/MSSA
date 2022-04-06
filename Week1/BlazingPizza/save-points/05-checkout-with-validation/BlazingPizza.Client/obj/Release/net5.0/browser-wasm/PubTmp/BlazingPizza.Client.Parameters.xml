@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="BlazingPizzaClient20220328115700" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\blazorWorkshop\\blazor-workshop\\save-points\\05-checkout-with-validation\\BlazingPizza\.Client\\obj\\Release\\net5\.0\\browser-wasm\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

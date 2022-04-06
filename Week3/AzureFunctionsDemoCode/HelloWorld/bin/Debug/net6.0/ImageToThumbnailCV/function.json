@@ -1,0 +1,15 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions.Generator-4.0.1",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "blobTrigger",
+      "path": "images-vc/{name}",
+      "source": "logsAndContainerScan",
+      "name": "myBlob"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/HelloWorld.dll",
+  "entryPoint": "HelloWorld.ImageToThumbnailCV.Run"
+}

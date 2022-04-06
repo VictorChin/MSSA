@@ -1,0 +1,8 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\VictorMSSA\MSSA\Week1\BlazingPizza\save-points\05-checkout-with-validation\BlazingPizza.Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\VictorMSSA\MSSA\Week1\BlazingPizza\save-points\05-checkout-with-validation\BlazingPizza.Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/BlazingComponents" Path="C:\VictorMSSA\MSSA\Week1\BlazingPizza\save-points\05-checkout-with-validation\BlazingComponents\obj\Debug\net5.0\scopedcss\projectbundle\" />
+  <ContentRoot BasePath="_content/BlazingComponents" Path="C:\VictorMSSA\MSSA\Week1\BlazingPizza\save-points\05-checkout-with-validation\BlazingComponents\wwwroot\" />
+  <ContentRoot BasePath="_content/BlazingPizza.ComponentsLibrary" Path="C:\VictorMSSA\MSSA\Week1\BlazingPizza\save-points\05-checkout-with-validation\BlazingPizza.ComponentsLibrary\wwwroot\" />
+  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="C:\Users\ypchi\.nuget\packages\microsoft.aspnetcore.components.webassembly.authentication\5.0.0\build\..\staticwebassets\" />
+</StaticWebAssets>

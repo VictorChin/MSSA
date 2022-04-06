@@ -1,0 +1,326 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Server\\BlazingPizza.Server.csproj": {}
+  },
+  "projects": {
+    "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
+        "projectName": "BlazingPizza.Client",
+        "projectPath": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
+        "packagesPath": "C:\\Users\\ypchi\\.nuget\\packages\\",
+        "outputPath": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ypchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+                "projectPath": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
+              },
+              "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
+                "projectPath": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
+              "version": "[5.0.15, 5.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+        "projectName": "BlazingPizza.ComponentsLibrary",
+        "projectPath": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+        "packagesPath": "C:\\Users\\ypchi\\.nuget\\packages\\",
+        "outputPath": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ypchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Server\\BlazingPizza.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Server\\BlazingPizza.Server.csproj",
+        "projectName": "BlazingPizza.Server",
+        "projectPath": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Server\\BlazingPizza.Server.csproj",
+        "packagesPath": "C:\\Users\\ypchi\\.nuget\\packages\\",
+        "outputPath": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ypchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {
+                "projectPath": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Client\\BlazingPizza.Client.csproj"
+              },
+              "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
+                "projectPath": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+        "projectName": "BlazingPizza.Shared",
+        "projectPath": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+        "packagesPath": "C:\\Users\\ypchi\\.nuget\\packages\\",
+        "outputPath": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ypchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+                "projectPath": "C:\\VictorMSSA\\MSSA\\Week1\\BlazingPizza\\save-points\\06-authentication-and-authorization\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

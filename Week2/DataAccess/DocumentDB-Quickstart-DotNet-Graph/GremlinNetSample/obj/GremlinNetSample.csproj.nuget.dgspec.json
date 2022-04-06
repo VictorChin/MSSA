@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\VictorMSSA\\MSSA\\Week2\\DataAccess\\DocumentDB-Quickstart-DotNet-Graph\\GremlinNetSample\\GremlinNetSample.csproj": {}
+  },
+  "projects": {
+    "C:\\VictorMSSA\\MSSA\\Week2\\DataAccess\\DocumentDB-Quickstart-DotNet-Graph\\GremlinNetSample\\GremlinNetSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VictorMSSA\\MSSA\\Week2\\DataAccess\\DocumentDB-Quickstart-DotNet-Graph\\GremlinNetSample\\GremlinNetSample.csproj",
+        "projectName": "GremlinNetSample",
+        "projectPath": "C:\\VictorMSSA\\MSSA\\Week2\\DataAccess\\DocumentDB-Quickstart-DotNet-Graph\\GremlinNetSample\\GremlinNetSample.csproj",
+        "packagesPath": "C:\\Users\\ypchi\\.nuget\\packages\\",
+        "outputPath": "C:\\VictorMSSA\\MSSA\\Week2\\DataAccess\\DocumentDB-Quickstart-DotNet-Graph\\GremlinNetSample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ypchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "Gremlin.Net": {
+              "target": "Package",
+              "version": "[3.4.0-rc2, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
